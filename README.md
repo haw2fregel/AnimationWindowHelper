@@ -1,0 +1,2 @@
+# AnimationWindowHelper
+AnimationウィンドウのカーブをEditor拡張から取得・編集
